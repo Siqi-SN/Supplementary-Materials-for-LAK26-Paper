@@ -37,7 +37,7 @@ The chatbot encourages students to make inferences and elaborate on the text usi
 If you are interested in trying the system, you can access the demo here: https://demo.itell.ai/ 
 
 # Contact
-This system was developed by LEAR Lab at Vanderbilt University. For questions or comments about this model, please contact wesley.g.morris@vanderbilt.edu. 
+This system was developed by LEAR Lab at Vanderbilt University. For questions, please contact the PI of the iTELL project Scott Crossley: scott.crossley@vanderbilt.edu
 
 
 # References
